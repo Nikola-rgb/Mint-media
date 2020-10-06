@@ -1,1 +1,1 @@
-# Mint-media
+# mintmedia
